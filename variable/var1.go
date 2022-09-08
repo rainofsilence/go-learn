@@ -1,8 +1,8 @@
-package main
+package variable
 
 import "fmt"
 
-func main() {
+func RunVar1() {
 
 	/*
 		变量: variable
