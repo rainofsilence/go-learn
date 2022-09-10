@@ -1,11 +1,11 @@
-package variable
+package dvariable
 
 import "fmt"
 
 func RunVar1() {
 
 	/*
-		变量: variable
+		变量: dvariable
 		概念: 一小块内存 用于存储数据 在运行过程中数值可以改变
 
 		使用:

@@ -1,11 +1,14 @@
 package main
 
-import "go-learn/constant"
+import "go-learn/ddatatype"
 
 func main() {
 
-	//variable.RunVar1()
-	//variable.RunVar2()
-	//constant.RunConst1()
-	constant.RunConst2()
+	//dvariable.RunVar1()
+	//dvariable.RunVar2()
+	//dconstant.RunConst1()
+	//dconstant.RunConst2()
+	//dvariable.RunVar3()
+	//dstruct.RunStruct1()
+	ddatatype.RunDt1()
 }

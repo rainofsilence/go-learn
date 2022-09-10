@@ -1,4 +1,4 @@
-package variable
+package dvariable
 
 import "fmt"
 
